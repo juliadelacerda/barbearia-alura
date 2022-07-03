@@ -8,8 +8,6 @@
 > Status: Finished
 ##
 
-> A little barbershop's site, containing modern CSS techniques, forms, checkboxes, responsive images, flexbox layouts...
-
 ```
 HTML
 ```
